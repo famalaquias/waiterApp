@@ -1,4 +1,4 @@
-# 👩‍🍳 WAITERAPP - O App do Garçom
+<h1 align="center">👩‍🍳 WAITERAPP - O App do Garçom </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
