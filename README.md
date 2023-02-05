@@ -1,6 +1,7 @@
 <h1 align="center">👩‍🍳 WAITERAPP - O App do Garçom </h1>
 
 <p align="center">
+  <a href="#-projeto">Sobre</a></a>&nbsp;&nbsp;|&nbsp;
   <a href="#-projeto">Projeto</a></a>&nbsp;&nbsp;|&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
