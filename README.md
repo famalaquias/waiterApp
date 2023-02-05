@@ -1,1 +1,1 @@
-:cooking
+# 👩‍🍳 WAITERAPP - O App do Garçom
