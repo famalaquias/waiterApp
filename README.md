@@ -1,9 +1,9 @@
 <h1 align="center">👩‍🍳 WAITERAPP - O App do Garçom </h1>
 
 <p align="center">
-  <a href="#-projeto">Sobre</a></a>&nbsp;&nbsp;|&nbsp;
+  <a href="#-sobre">Sobre</a></a>&nbsp;&nbsp;|&nbsp;
   <a href="#-projeto">Projeto</a></a>&nbsp;&nbsp;|&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 <h2 align="center"> Preview </h2>
@@ -13,7 +13,7 @@
 
 ## :page_with_curl: Sobre
 
-Aplicativo desenvolvido juntamente com a Dio, como uma forma de expandir meus conhecimento em Fundamentos da Web.
+Aplicativo desenvolvido para garçons, onde os mesmos têm acesso aos pedidos feitos pelos clientes, o status desse pedido, o valor total da conta em tempo real e, ainda, a função de enviar esse pedido diretamente à cozinha.
 
 
 ## 📖 Projeto
