@@ -1,0 +1,12 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space # estilo da identação;
+indent_size = 2 # tamanho da identação;
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true # remove os espaçoes em branco do código;
+insert_final_newline = true # adiciona uma linha vazia ao final do código;
