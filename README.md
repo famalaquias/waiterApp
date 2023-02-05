@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a></a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <h2 align="center"> Preview </h2>
