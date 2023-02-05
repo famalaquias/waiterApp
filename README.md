@@ -1,9 +1,10 @@
 <h1 align="center">👩‍🍳 WAITERAPP - O App do Garçom </h1>
 
 <p align="center">
-  <a href="#-sobre">Sobre</a></a>&nbsp;&nbsp;|&nbsp;
-  <a href="#-projeto">Projeto</a></a>&nbsp;&nbsp;|&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Habilidades Desenvolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Ferramentas Utilizadas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 <h2 align="center"> Preview </h2>
@@ -27,18 +28,60 @@ Na parte mobile é possível selecionar uma mesa, adicionar itens/produtos ao ca
 
 ## :man_technologist: Habilidades Desenvolvidas
 
-- Criar uma página dinânima
-- Criar estilos na página
-- Acessar uma API
-- Trazer os elementos da API de forma dinâmica para a página
-- Manipulação do DOM
+#### Funcionalidades Web:
+
+- [x] Listagem de mesas
+- [x] Criação de pedidos
+- [x] Listagem de pedidos
+- [x] Listagem de pedidos por mesa
+- [x] Cancelar pedido
+- [x] Finalizar pedido
+- [x] Atualizar status do pedido (Fila de espera, em preparo, pronto)
+- [x] Pedidos aparecem em realtime com Socket.IO
+
+#### Funcionalidades Mobile:
+
+- [x] Listagem de mesas
+- [x] Listagem de produtos
+- [x] Listagem de categorias
+- [x] Listagem de produtos por categoria
+- [x] Cancelar pedido
+- [x] Finalizar pedido
+- [x] Adicionar produto ao pedido
+- [x] Remover produto do pedido
+- [x] Tela de pedido realizado
 
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Express
-- API
-- DOM
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+💻 #Web Front end :
+
+- [React.js](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com)
+- [Socket.IO](https://socket.io)
+
+---
+
+- ⚙️ #Back end :
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com)
+- [Docker](https://www.docker.com)
+- [MongoDB](https://www.mongodb.com)
+- [Axios](https://github.com/axios/axios)
+
+---
+
+- 📱 #Mobile :
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Axios](https://github.com/axios/axios)
+
+---
+
+Feito com por Fabiane Malaquias :wave: [LinkedIn](https://www.linkedin.com/in/fabianemalaquias/) e [GitHub](https://github.com/famalaquias)
+
