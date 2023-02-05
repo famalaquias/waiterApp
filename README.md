@@ -1,16 +1,24 @@
 # 👩‍🍳 WAITERAPP - O App do Garçom
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<br>
+
+<h2 align="center"> Preview </h2>
+
 ![waiterapp](https://user-images.githubusercontent.com/98343640/216795326-a43482d7-9d10-4109-a044-0ffc8915ec3f.jpg)
 
 
-## :page_with_curl: Sobre
+## :page_with_curl: Projeto
 
-Aplicativo desenvolvido juntamente com a Dio, como uma forma de expandir meus conhecimento em Fundamentos da Web.
+A aplicação tem como finalidade auxiliar restaurantes a controlar os pedidos feitos pelos clientes, permitindo-os, através de um app, realizar seus pedidos e automaticamente serem enviados para um dashboard web ( tudo isso em tempo real).
 
+Na parte web é possível visualizar cada pedido feito em tempo real, os seus detalhes, o status de acordo com cada etapa do processo de preparação (fila de espera, em preparação e pronto) e o valor total do mesmo, tudo isso graças a ferramenta socket.io.
 
-## 📖 Descrição
-
-O aplicativo Netflix tem como objetivo trazer de forma dinânica todos as categorias de filmes e séries para que o usuário e sua família tenham opões de escolher e se divertindo vendo obras incríveis. 
+Na parte mobile é possível selecionar uma mesa, adicionar itens/produtos ao carrinho, selecionando a quantidade, a categoria de cada produto e confirmar o pedido. Além de diversas outras funcionalidades como validação do carrinho, visualizar detalhes e ingredientes de um determinado produto, controle do status e até mesmo o cancelamento de um pedido. 
 
 
 ## :man_technologist: Habilidades Desenvolvidas
