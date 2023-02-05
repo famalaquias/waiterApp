@@ -1,12 +1,5 @@
 <h1 align="center">👩‍🍳 WAITERAPP - O App do Garçom </h1>
 
-<p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-habilidades desenvolvidas">Habilidades Desenvolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Ferramentas Utilizadas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</p>
-
 <h2 align="center"> Preview </h2>
 
 ![waiterapp](https://user-images.githubusercontent.com/98343640/216795326-a43482d7-9d10-4109-a044-0ffc8915ec3f.jpg)
